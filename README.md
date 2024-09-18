@@ -1,2 +1,2 @@
-# summer-coding
-first time trying to upload to github: trying to get the randomQuoteMachine
+# quote-machine
+Please know that this project was created for the FreeCodeCamp Front End Development Libraries Certification
